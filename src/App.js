@@ -1,5 +1,6 @@
 import React from 'react';
 import Tetris from './components/Tetris';
+import './App.scss'
 
 function App() {
   return (
